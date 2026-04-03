@@ -1,17 +1,32 @@
-Cyber Security Notes 🔐
+👋 Hi, I'm Khizar
 
-About Me
-I am a Cyber Security learner passionate about:
-- Networking
-- Linux
-- Ethical Hacking
+🔐 Cyber Security Enthusiast
 
-Platforms
-- TryHackMe
+- 🌱 Currently Learning: Ethical Hacking, Networking, Linux  
+- 🎯 Goal: Become a Cyber Security Expert  
+- 🧠 Platforms: TryHackMe  
+- 📍 Location: Pakistan  
 
-Progress
-- Completed rooms: 4+
 
-Goals
-- Become a Cyber Security Expert
-- Learn Penetration Testing
+
+ 🚀 Skills
+- Networking Basics  
+- Linux Commands  
+- Cyber Security Fundamentals  
+
+
+
+📌 Projects
+- Cyber Security Notes  
+- TryHackMe Writeups  
+
+
+
+ 📊 Progress
+- Rooms Completed: 4+  
+
+
+ 🔗 Connect with Me
+- TryHackMe  
+- LinkedIn  
+
